@@ -1,0 +1,27 @@
+{
+  "name": "progressify",
+  "version": "1.0.0",
+  "description": "Already have a webapp & want to convert it to pwa? you are in the right place. Follow the steps below to Progressify your app",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reckonsys/progressify.git"
+  },
+  "keywords": [
+    "node",
+    "angularjs",
+    "cli-tool"
+  ],
+  "author": "Gururaj Dharani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/reckonsys/progressify/issues"
+  },
+  "homepage": "https://github.com/reckonsys/progressify#readme",
+  "dependencies": {
+    "inquirer": "^6.5.0"
+  }
+}
