@@ -1,5 +1,5 @@
 {
-  "name": "progressify",
+  "name": "rs-progressify",
   "version": "1.0.0",
   "description": "Already have a webapp & want to convert it to pwa? you are in the right place. Follow the steps below to Progressify your app",
   "main": "app.js",
