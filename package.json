@@ -4,7 +4,8 @@
   "description": "Already have a webapp & want to convert it to pwa? you are in the right place. Follow the steps below to Progressify your app",
   "main": "app.js",
   "scripts": {
-    "test": "node app.js"
+    "start": "node figlet.js && node app.js",
+    "test": "node figlet.js && node app.js"
   },
   "repository": {
     "type": "git",
@@ -22,6 +23,7 @@
   },
   "homepage": "https://github.com/reckonsys/progressify#readme",
   "dependencies": {
+    "figlet": "^1.2.3",
     "inquirer": "^6.5.0"
   }
 }
